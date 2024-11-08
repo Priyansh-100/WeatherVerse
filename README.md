@@ -1,6 +1,6 @@
 # WeatherVerse
 
-## Weather Data Fetching Tool with City Name Lookup
+## Weather Forecating Tool with City Name Lookup
 
 This Python application allows you to fetch and display weather data for a specified city or coordinates using the Open-Meteo API.
 The tool includes a Tkinter-based GUI for user input, allowing you to either enter the city name or coordinates to retrieve weather data.
